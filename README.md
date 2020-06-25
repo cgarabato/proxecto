@@ -1,4 +1,8 @@
 # proxecto
+Contenido:
+
+Fichero del Proyecto Tableau
+
 Colección de ficheros utilizados:
 
 Dataset de PA-X: El interés está en los acuerdos interestatales puros, los que se refieren a cualquier conflicto internacional, y estos están representados por la variable Agtp (Tipo de acuerdo/conflicto) con su valor “Inter”, pues el resto se refiere a conflictos interestatales. Con este filtro en Excel se obtiene un Dataset con 266 variables con 72 acuerdos.
