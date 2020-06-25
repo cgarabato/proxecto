@@ -1,7 +1,7 @@
 # proxecto
-Contenido:
-## Fichero del Proyecto Tableau
-## Colección de ficheros utilizados:
+## Contenido del proyecto:
+###### Fichero del Proyecto Tableau
+###### Colección de ficheros utilizados:
 - Dataset de PA-X tratado: Acuerdos interestatales puros con 72 acuerdos.
 - PRODUCTOS DE PETRÓLEO REFINADO – CONSUMO
 - Productos de petróleo refinado
